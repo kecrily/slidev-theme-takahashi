@@ -1,0 +1,32 @@
+.slidev-layout{
+  h1{
+    @apply text-16xl
+  }
+  h2{
+    @apply text-14xl
+  }
+  h3{
+    @apply text-12xl
+  }
+  h4{
+    @apply text-10xl
+  }
+  h5{
+    @apply text-9xl
+  }
+  h6{
+    @apply text-8xl
+  }
+  strong{
+    @apply text-red-800
+  }
+  em{
+    @apply not-italic text-[#777]
+  }
+  ul, ol, {
+    @apply text-6xl text-left leading-22
+  }
+  p{
+    @apply text-5xl
+  }
+}
