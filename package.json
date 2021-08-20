@@ -10,6 +10,7 @@
     "slidev",
     "takahashi"
   ],
+  "repository": "github:kecrily/slidev-theme-takahashi",
   "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
   "slidev": {
     "colorSchema": "light",
